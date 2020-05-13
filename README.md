@@ -26,4 +26,8 @@ Based on a preliminary analysis, given COVID-19's median R0 value of around 5.7,
 
 Aside from the code provided in this tutorial, I also specifically looked at the counties with the highest percentage of individuals over 60 (using a bar graph, easier to visualize than bubble map). We have seen thus far that COVID-19 is particularly dangerous in populatuons 60 and up; After a graphical analysis of the county data, Sumter County in Florida, boasting an over 60% 60+ age group, is at a major risk. With such a large elderly population that makes up the county's inhabitants, Sumter county needs to understand that a majority of its population is at risk of death. Not to mention, with such a large elderly population, if they contract COVID-19, then hospitals would be overwhelmed with large amounts of elderly who may need ventilators that put stress on hospitals' resources. This data helps us better understand that Sumter County is at risk for an increased number of COVID-19 cases + deaths.
 
+![Under18Over60UsCountiesGraph.PNG](https://github.com/drewshlee/Analyzing-County-Data-to-Determine-Level-of-Adherence-to-COVID-19-Guidelines/blob/master/Under18Over60UsCountiesGraph.PNG)
+
+![PercentageUnder18Over60Counties.PNG](https://github.com/drewshlee/Analyzing-County-Data-to-Determine-Level-of-Adherence-to-COVID-19-Guidelines/blob/master/PercentageUnder18Over60Counties.PNG)
+
 
