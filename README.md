@@ -30,4 +30,4 @@ Aside from the code provided in this tutorial, I also specifically looked at the
 
 ![PercentageUnder18Over60Counties.PNG](https://github.com/drewshlee/Analyzing-County-Data-to-Determine-Level-of-Adherence-to-COVID-19-Guidelines/blob/master/PercentageUnder18Over60Counties.PNG)
 
-
+In this project, bubble maps were also created, displaying a somewhat of a negative correlation between percentage of population over 60 and percentage of population under 18. Since COVID-19 is most deadly in the middle-aged to elderly age groups, for the counties that have a large population of citizens under age 18, those counties may not need to follow as closely to very strict social distancing guidelines (complete shutdown of all businesses, etc.). However, these counties also need to take into account the percentage of their other age groups, given that children/teens/young adults are often vectors of disease. If there are any counties with a high percentage of under 18ers and a relatively lower percentage of 60+ers, if the county sees promising results (not too many deaths, etc.), perhaps these counties can provide resources to counties like Sumter County, for example.
